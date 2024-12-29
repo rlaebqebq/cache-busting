@@ -4,7 +4,7 @@ const BPage =()=> {
   return (
     <div>
       <p>b page</p>
-      <p>version 1.3</p>
+      <p>version 1.4</p>
     </div>
   )
 }
